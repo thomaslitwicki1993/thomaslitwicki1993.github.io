@@ -153,15 +153,12 @@ li {
 footer {
     position: relative;
     top: 130px;
+    min-height: 200px;
+    margin: auto;
 }
 
 .copyright {
     display: flex;
     justify-content: flex-start;
     margin-left: 20px;
-}
-
-.footer {
-    min-height: 200px;
-    margin: auto;
 }
