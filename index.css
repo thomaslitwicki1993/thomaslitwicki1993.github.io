@@ -1,0 +1,166 @@
+body {
+font-family: Helvetica;
+font-size: 22px;
+color: seashell;
+background-color: black;
+opacity: .8;
+text-align: center;
+z-index: 1;
+}
+
+.navbar {
+border-bottom: 1px solid seashell;
+width: 100%;
+display: flex;
+justify-content: space-between;
+position: fixed;
+z-index: 999;
+background-color: black;
+margin-top: -8px;
+opacity: .80;
+}
+
+.image-container {
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.nav-image {
+    height: 50px;
+    margin-top: 8px;
+}
+
+li {
+    display: inline;
+}
+
+.navbar-links a {
+    color: lightgrey;
+    opacity: .9;
+    position: relative;
+    margin-right: 10px;
+}
+
+.navbar-links a:hover {
+    color:white;
+    text-transform: uppercase;
+}
+
+#mission {
+    right: 40px;
+}
+
+#feature {
+    right: 20px;
+}
+.navbar-links {
+    margin-right: 10px;
+}
+
+.banner {
+    position: relative;
+    top: 69px;
+    display: flex;
+    flex-direction: column;
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg?_gl=1*gloycq*_ga*OTQ5MDY2OTY5LjE2OTk4MTQ1NDM.*_ga_3LRZM6TM9L*MTcwMDQwNTg5MC40LjEuMTcwMDQwNzAxOC42MC4wLjA.");
+    justify-content: center;
+    align-content: center;
+    height: 700px;
+    width: 1200px;
+    margin: auto;
+}
+
+#text-background {
+    background-color: black;
+    position:relative
+}
+
+.month {
+    position: relative;
+    width: 1000px;
+    margin: 0 auto;
+    top: 100px;
+}
+
+.featured-size {
+    height: 200px;
+    width: 300px;
+}
+
+.featured-container {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 100px;
+    min-width: 1000px;
+}
+
+.feature-margin {
+    margin-right: 25px;
+}
+
+.aside {
+    margin-top: 10px;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+
+.location-image-container {
+    position: relative;
+    top: 150px;
+    height: 700px;
+    width: 1200px;
+    margin: 0px auto;
+    background-image: url('https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg?_gl=1*1w6gpz0*_ga*OTQ5MDY2OTY5LjE2OTk4MTQ1NDM.*_ga_3LRZM6TM9L*MTcwMDQwODgxMC41LjAuMTcwMDQwODgxMC42MC4wLjA.');
+}
+
+.move-down {
+    position: relative;
+    top: 90px;
+}
+
+.locations {
+    display: inline-flex;
+    position: relative;
+    top: 100px;
+    margin-top: 15px;
+    opacity: 1;
+}
+
+.downtown {
+    background-color: black;
+    min-width: 300px;
+    flex-direction: column;
+    margin-right: 40px;
+}
+
+.east-bayside {
+    background-color: black;
+    min-width: 300px;
+    flex-direction: column;
+}
+
+.oakdale {
+    background-color: black;
+    min-width: 300px;
+    flex-direction: column;
+    margin-left: 40px;
+}
+
+footer {
+    position: relative;
+    top: 130px;
+}
+
+.copyright {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 20px;
+}
+
+.footer {
+    min-height: 200px;
+}
