@@ -161,13 +161,6 @@ footer {
     margin: auto;
 }
 
-pray {
-    margin: auto;
-    display: flex;
-    justify-content: center;
-    align-content: center;
-}
-
 .copyright {
     display: flex;
     justify-content: flex-start;
