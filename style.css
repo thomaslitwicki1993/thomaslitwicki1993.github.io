@@ -156,6 +156,7 @@ footer {
     top: 130px;
     min-height: 200px;
     margin: auto;
+    width: 100%;
 }
 
 .copyright {
