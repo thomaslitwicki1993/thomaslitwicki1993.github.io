@@ -163,4 +163,6 @@ footer {
     display: flex;
     justify-content: flex-start;
     margin-left: 20px;
+    position: relative;
+    top: 130px;
 }
