@@ -157,6 +157,8 @@ footer {
     top: 130px;
     min-height: 200px;
     justify-content: center;
+    align-content: center;
+    margin: auto;
 }
 
 .copyright {
