@@ -1,7 +1,7 @@
 body {
 font-family: Helvetica;
 font-size: 22px;
-color: seashell;
+color: pink;
 background-color: black;
 opacity: .8;
 text-align: center;
@@ -77,7 +77,7 @@ li {
 
 .month {
     position: relative;
-    width: 1000px;
+    width: 1200px;
     margin: 0 auto;
     top: 100px;
     text-align: center;
@@ -93,7 +93,7 @@ li {
     justify-content: center;
     position: relative;
     top: 100px;
-    min-width: 1000px;
+    min-width: 1200px;
     margin: auto;
 }
 
@@ -160,7 +160,6 @@ footer {
     justify-content: center;
     align-content: center;
     text-align: center;
-    color: coral;
 }
 
 .copyright {
