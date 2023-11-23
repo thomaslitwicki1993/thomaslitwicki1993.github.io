@@ -93,6 +93,7 @@ li {
     position: relative;
     top: 100px;
     min-width: 1000px;
+    margin: auto;
 }
 
 .feature-margin {
