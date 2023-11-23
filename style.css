@@ -160,7 +160,6 @@ footer {
 }
 
 .copyright {
-    display: flex;
     justify-content: flex-start;
     margin-left: 20px;
 }
