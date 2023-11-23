@@ -152,10 +152,11 @@ li {
 }
 
 footer {
+    display: flex;
     position: relative;
     top: 130px;
     min-height: 200px;
-    margin: auto;
+    justify-content: center;
     width: 100%;
 }
 
