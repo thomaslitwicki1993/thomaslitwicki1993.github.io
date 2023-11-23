@@ -142,12 +142,22 @@ li {
     min-width: 300px;
     flex-direction: column;
     margin-right: 40px;
+    border: solid 3px;
+    border-top-color: white;
+    border-bottom-color: white;
+    border-right-color: grey;
+    border-left-color: grey;
 }
 
 .east-bayside {
     background-color: black;
     min-width: 300px;
     flex-direction: column;
+    border: solid 3px;
+    border-top-color: white;
+    border-bottom-color: white;
+    border-right-color: grey;
+    border-left-color: grey;
 }
 
 .oakdale {
@@ -155,6 +165,11 @@ li {
     min-width: 300px;
     flex-direction: column;
     margin-left: 40px;
+    border: solid 3px;
+    border-top-color: white;
+    border-bottom-color: white;
+    border-right-color: grey;
+    border-left-color: grey;
 }
 
 footer {
